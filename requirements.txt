@@ -1,0 +1,6 @@
+tabulate==0.8.7
+sympy==1.6.2
+scipy==1.5.2
+
+# pip install -r requirements.txt
+# https://mybinder.org/v2/gh/Paguiar735/physics_lab1/6826d63620494408a2900be9961ab43da8d11e49
